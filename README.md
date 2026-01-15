@@ -67,9 +67,7 @@ This project demonstrates my ability to:
 
 ## 🖼 Dashboard Preview
 
-![Electricity Dashboard](screenshot.png)
-
-> 📌 *Replace `screenshot.png` with your actual image file name uploaded to this repository.*
+![Electricity Dashboard](https://github.com/VS1901/Indias-Electricity-Performance-and-Demand-Analytics/blob/main/Electricity%20Analytics%20Dashboard%20Screenshot.png)
 
 ---
 
@@ -77,10 +75,7 @@ This project demonstrates my ability to:
 
 You can view the interactive Power BI report here:
 
-👉 **Power BI Link:**  
-`https://your-powerbi-public-link-here`
-
-> This link allows recruiters and viewers to explore the dashboard without needing a Power BI account.
+`https://app.powerbi.com/view?r=eyJrIjoiZjM3ZWY3MjktZWVjMC00YWRlLTkzNDItZGMyYTM5MjEwNzNiIiwidCI6IjVjZmU5N2ZjLTg0MjktNGZlNi05MzdmLWU2ZmI5MzdlMDI5YSJ9`
 
 ---
 
