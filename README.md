@@ -1,4 +1,4 @@
-# ⚡ India Electricity Performance & Demand Analytics (Power BI)
+# ⚡ India's Electricity Performance & Demand Analytics (Power BI)
 
 This project analyzes **India’s electricity generation, capacity, and demand trends** across different states using an interactive **Power BI dashboard**. The goal is to understand performance patterns, seasonal behavior, and state-wise comparisons in electricity metrics.
 
